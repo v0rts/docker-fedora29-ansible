@@ -1,8 +1,8 @@
 # Fedora 29 Ansible Test Image
 
-[![Docker Automated build](https://img.shields.io/docker/automated/v0rts/docker-fedora29-ansible.svg?maxAge=2792000)](https://hub.docker.com/r/v0rts/docker-fedora27-ansible/)
-[![Docker Automated build](https://img.shields.io/docker/pulls/v0rts/docker-fedora29-ansible.svg?maxAge=2792000)](https://hub.docker.com/r/v0rts/docker-fedora27-ansible/)
-[![Docker Automated build](https://img.shields.io/docker/stars/v0rts/docker-fedora29-ansible.svg?maxAge=2792000)](https://hub.docker.com/r/v0rts/docker-fedora27-ansible/)
+[![Docker Automated build](https://img.shields.io/docker/automated/v0rts/docker-fedora29-ansible.svg?maxAge=2792000)](https://hub.docker.com/r/v0rts/docker-fedora29-ansible/)
+[![Docker Automated build](https://img.shields.io/docker/pulls/v0rts/docker-fedora29-ansible.svg?maxAge=2792000)](https://hub.docker.com/r/v0rts/docker-fedora29-ansible/)
+[![Docker Automated build](https://img.shields.io/docker/stars/v0rts/docker-fedora29-ansible.svg?maxAge=2792000)](https://hub.docker.com/r/v0rts/docker-fedora29-ansible/)
 
 Fedora 29 Docker container for Ansible playbook and role testing.
 
